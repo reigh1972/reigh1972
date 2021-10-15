@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reigh1972
+- 👋 Hi, I’m @reigh1972 - RED
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning data preparation.
 - 💞️ I’m looking to collaborate on data science projects.
